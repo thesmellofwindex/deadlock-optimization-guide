@@ -85,7 +85,7 @@ Nvidia Reflex: On
 > 
 > Naming structure is as follows: pakXX_dir.pak
 > 
-> 01-99 is priority based
+> 01-99, the lower the number the higher the priority
 
 [Blur Disabler](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler)
   
