@@ -62,7 +62,7 @@ Nvidia Reflex: On
 
 
 ## Config
-[OptimizationLock](https://github.com/Sqooky/OptimizationLock) has several options, but also contains a lot of commands that are no longer supported in engine.
+[OptimizationLock](https://github.com/Sqooky/OptimizationLock) has several options are regularly updated. I recommend looking here first. 
 
 [My config](https://github.com/thesmellofwindex/deadlock-optimization-guide/blob/main/config/gameinfo.gi)
 > File location: **Deadlock Install Location** \ game\ citadel \ gameinfo.gi
