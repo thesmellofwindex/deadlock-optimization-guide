@@ -74,7 +74,9 @@ Nvidia Reflex: On
 > You need to change some values that are specific to your computer!
 > 
 > Copy and paste these values from your current video.txt: Version, VendorID, DeviceID.
-> 
+>
+> Currently setup to play in 4:3 stretched (1440x1080), put your desired resolution in setting.defaultres and setting.defaultresheight
+>
 > Set as Read Only
 
 ## Mods
