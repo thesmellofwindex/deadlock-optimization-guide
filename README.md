@@ -71,6 +71,7 @@ Nvidia Reflex: On
 
 [video.txt](https://github.com/thesmellofwindex/deadlock-optimization-guide/blob/main/config/video.txt)
 > File Location: **Steam Install Location** \userdata\ **Your User ID** \ 1422450 \ local \ cfg
+> 
 > You need to change some values that are specific to your computer!
 > 
 > Copy and paste these values from your current video.txt: Version, VendorID, DeviceID.
@@ -81,7 +82,9 @@ Nvidia Reflex: On
 
 ## Mods
 > Make a folder in: **Deadlock Install Location** \ game\ citadel \ called Addons
+> 
 > Naming structure is as follows: pakXX_dir.pak
+> 
 > 01-99 is priority based
 
 [Blur Disabler](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler)
